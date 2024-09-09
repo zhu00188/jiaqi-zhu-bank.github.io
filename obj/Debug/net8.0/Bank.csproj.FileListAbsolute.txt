@@ -1,0 +1,30 @@
+E:\AC\Web Programming II\lab3\Bank-zhu00188\obj\Debug\net8.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\AC\Web Programming II\lab3\Bank-zhu00188\obj\Debug\net8.0\Bank.AssemblyInfoInputs.cache
+E:\AC\Web Programming II\lab3\Bank-zhu00188\obj\Debug\net8.0\Bank.AssemblyInfo.cs
+E:\AC\Web Programming II\lab3\Bank-zhu00188\obj\Debug\net8.0\Bank.csproj.CoreCompileInputs.cache
+E:\AC\Web Programming II\lab3\Bank-zhu00188\obj\Debug\net8.0\Bank.sourcelink.json
+E:\AC\Web Programming II\lab3\Bank-zhu00188\bin\Debug\net8.0\Bank.exe
+E:\AC\Web Programming II\lab3\Bank-zhu00188\bin\Debug\net8.0\Bank.deps.json
+E:\AC\Web Programming II\lab3\Bank-zhu00188\bin\Debug\net8.0\Bank.runtimeconfig.json
+E:\AC\Web Programming II\lab3\Bank-zhu00188\bin\Debug\net8.0\Bank.dll
+E:\AC\Web Programming II\lab3\Bank-zhu00188\bin\Debug\net8.0\Bank.pdb
+E:\AC\Web Programming II\lab3\Bank-zhu00188\obj\Debug\net8.0\Bank.dll
+E:\AC\Web Programming II\lab3\Bank-zhu00188\obj\Debug\net8.0\refint\Bank.dll
+E:\AC\Web Programming II\lab3\Bank-zhu00188\obj\Debug\net8.0\Bank.pdb
+E:\AC\Web Programming II\lab3\Bank-zhu00188\obj\Debug\net8.0\Bank.genruntimeconfig.cache
+E:\AC\Web Programming II\lab3\Bank-zhu00188\obj\Debug\net8.0\ref\Bank.dll
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\bin\Debug\net8.0\Bank.exe
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\bin\Debug\net8.0\Bank.deps.json
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\bin\Debug\net8.0\Bank.runtimeconfig.json
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\bin\Debug\net8.0\Bank.dll
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\bin\Debug\net8.0\Bank.pdb
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\obj\Debug\net8.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\obj\Debug\net8.0\Bank.AssemblyInfoInputs.cache
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\obj\Debug\net8.0\Bank.AssemblyInfo.cs
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\obj\Debug\net8.0\Bank.csproj.CoreCompileInputs.cache
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\obj\Debug\net8.0\Bank.sourcelink.json
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\obj\Debug\net8.0\Bank.dll
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\obj\Debug\net8.0\refint\Bank.dll
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\obj\Debug\net8.0\Bank.pdb
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\obj\Debug\net8.0\Bank.genruntimeconfig.cache
+E:\KAY\CAREER\Projects\Github\Bank-zhu00188\obj\Debug\net8.0\ref\Bank.dll
